@@ -1,10 +1,10 @@
 ## Employee Credentials
 
-| EMP ID | Role  | Password    | Name    |
-|--------|-------|-------------|---------|
-| EMP001 | Admin | sheheen123  | Sheheen |
-| EMP002 | User  | arunima123  | Arunima |
-| EMP003 | User  | amaan123    | Amaan   |
-| EMP004 | User  | salim123    | Salim   |
-| EMP005 | User  | sahal123    | Sahal   |
-| EMP006 | User  | yasir123    | Yasir   |
+| EMP ID | Role  | Name    | Password    |
+|--------|-------|---------|-------------|
+| EMP001 | Admin | Sheheen | sheheen123  |
+| EMP002 | User  | Arunima | arunima123  |
+| EMP003 | User  | Amaan   | amaan123    |
+| EMP004 | User  | Salim   | salim123    |
+| EMP005 | User  | Sahal   | sahal123    |
+| EMP006 | User  | Yasir   | yasir123    |
